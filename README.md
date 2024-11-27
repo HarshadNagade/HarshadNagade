@@ -9,7 +9,7 @@
 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
 </li>
 <li>
-💻 My tech stack revolves around Java,C++,Kotlin and PostgreSQL.
+💻 My tech stack revolves around Java,php,C++,Kotlin and PostgreSQL.
 </li>
 </ul><!---
 <p> <mark style="background-color: Orange;"> Java</mark> &nbsp; <mark style="background-color: green;"> C++</mark></p>
