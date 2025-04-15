@@ -1,5 +1,5 @@
 <h3>👋 Hello, I'm Harshad Nagade!</h3>
-
+<h2>from MIT-WPU, Pune. I am passionate about software development and I am currently trying out different fields.</h2>
 <p>First of all, thanks for visiting my profile. Here, what you should know about me:</p>    
 
 
