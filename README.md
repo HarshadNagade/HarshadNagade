@@ -1,4 +1,4 @@
-<h3>👋 Hello, I'm Harshad Nagade!</h3>
+<h3 style="text-align: center;">👋 Hello, I'm Harshad Nagade!</h3>
 <h4>from MIT-WPU, Pune. I am passionate about software development and I am currently trying out different fields.</h4>
 <p>First of all, thanks for visiting my profile. Here, what you should know about me:</p>    
 
