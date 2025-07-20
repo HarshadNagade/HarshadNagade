@@ -44,3 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ha&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ha&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
