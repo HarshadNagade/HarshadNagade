@@ -1,17 +1,27 @@
 <h3 style="text-align: center;">👋 Hello, I'm Harshad Nagade!</h3>
-<h4>from MIT-WPU, Pune. I am passionate about software development and I am currently trying out different fields.</h4>
+<h4>🎓 I'm currently in my final year of MCA and passionate about **Software Development**. I enjoy working with **Spring Boot** and exploring new technologies in the software engineering world.
+</h4>
+--
 <p>First of all, thanks for visiting my profile. Here, what you should know about me:</p>    
 
 
 
 <ul style="list-style-type:disc;">
 <li>
-🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
+🔧 Self-motivated and enthusiastic developer with a keen interest in building robust and scalable software.
 </li>
 <li>
-💻 My tech stack revolves around Java,php,C++,Kotlin and PostgreSQL.
+🌱 I’m currently diving deeper into Spring Boot, REST APIs, and microservices architecture.
 </li>
-</ul><!---
+  <li>
+    💡 Always excited to learn new tools and technologies to grow as a developer.
+
+  </li>
+</ul>
+---
+😄 **Pronouns**: He/Him  
+
+<!---
 <p> <mark style="background-color: Orange;"> Java</mark> &nbsp; <mark style="background-color: green;"> C++</mark></p>
 <p> </p>
 ---->
